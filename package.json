@@ -8,7 +8,6 @@
     "@types/react-dom": "18.2.18",
     "highcharts": "11.3.0",
     "highcharts-react-official": "^3.2.1",
-    "modules/mouse-wheel-zoom": "*",
     "prop-types": "15.8.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
